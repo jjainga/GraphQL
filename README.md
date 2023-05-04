@@ -1,11 +1,8 @@
-Sure! Here's an example readme in HTML format for your GraphQL project:
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GraphQL Project Readme</title>
 </head>
 <body>
   <h1>GraphQL Project Readme</h1>
