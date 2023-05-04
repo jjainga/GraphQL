@@ -21,7 +21,7 @@
   <h2>Schema</h2>
   <p>The schema for this project defines a single type, <code>Post</code>, which has two fields: <code>id</code> and <code>title</code>. You can query all posts by using the following GraphQL query:</p>
   <code>
-    {
+    query{
       posts {
         id
         title
