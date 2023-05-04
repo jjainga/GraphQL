@@ -1,6 +1,6 @@
 import graphene
 from graphene_sqlalchemy import SQLAlchemyObjectType
-from models import db_session, Post as PostModel
+from .models import db_session, Post as PostModel
 
 class Post(SQLAlchemyObjectType):
     class Meta:
